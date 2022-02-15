@@ -1,0 +1,15 @@
+<resources>
+    <string name="action_settings">settings</string>
+    <string name="txtTickets">Number of Tickets</string>>
+    <string name="TxtTitle">Ticket Value</string>
+    <string name="Describtion">Concert Image</string>
+    <string name="hello_World">Hello world!</string>
+    <string name="Promt">Select group</string>
+    <string name="btnCost">Find the cost</string>
+    <string-array name="Txtgroup">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item>Zig Zag</item>
+    </string-array>
+    <string name="app_name">C</string>
+</resources>
